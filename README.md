@@ -1,3 +1,3 @@
 dracula
 ---------------------------------------------------------
-Software to submit a image/captcha to webservice of DeathByCaptcha.com to decode and retrieve your text
+Software to submit an image/captcha to webservice of DeathByCaptcha.com to decode and retrieve your text
