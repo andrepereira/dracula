@@ -1,6 +1,7 @@
 <?php
 /**
  * @package DBCAPI
+ * Alrights reserved and copyright by DeathByCaptcha.com
  */
 
 /**
