@@ -44,7 +44,7 @@ class Captcha{
 	public function sendCaptchaDBC($filenamep, $timeoutp = 15){
 
 			// DBC credentials here.
-			$client = new DeathByCaptcha_SocketClient("omo1357", "omo2468@");
+			$client = new DeathByCaptcha_SocketClient("user", "password");
 
 		// CAPTCHA file name or handler, and desired timeout (in seconds) here:
 		if ($captcha = $client->decode($filenamep, $timeoutp)){
